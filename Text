@@ -2,4 +2,8 @@ First file !
 Second line!
 Third line
 4 line :D 
+<<<<<<< HEAD
 checkig reverting
+=======
+checking the branching system on branch dev
+>>>>>>> c7342e96b4f8f371d3f1434ec3f1a05e86bdbfa4
